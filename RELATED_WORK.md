@@ -1,0 +1,10 @@
+- Lim & Jeong 2025, Micromachines 16:772 — 리뷰. intrinsic/wavy/hybrid 분류, 범주별 신장률 표
+- LGD 2022 / 2024 — 12인치, 20% / 50% (12→18인치 대각선), 100 PPI, 마이크로LED (보도자료)
+- Samsung 2024 — 마이크로LED, 120 PPI, 25% (보도자료)
+- Samsung SID 2025 Digest 85-1 — 11인치 200 PPI, 반구 양방향 시험 픽셀 30% 이상, 해상도-신장률 트레이드오프 명시
+- Lee et al. 2024, Nature Comm. — 숨긴 발광 영역(발광+연결선), 30% 양방향, 패시브 매트릭스
+- Liu et al. 2020, Nature Comm. — 완전 신축형 AM 발광 어레이, 30% 반복
+- Jang et al. 2022, AFM — 옥세틱 메타 디스플레이, 24.5%, 포아송비 −1
+- Shi et al. 2021, Nature — 디스플레이 직물, 6 m × 25 cm, 간격 약 800 µm
+- Song et al. 2009 JAP / Zhang et al. 2014 AFM / Jang et al. 2017 Nature Comm. — 아치형·서펜타인+프리스트레인·3D 나선 다리, 시스템 신장률 공식
+- HP 2024 기술 공개, 미국 특허 "Expandable display having rollable material" — 양방향 롤러블 개념 (시연 없음)
